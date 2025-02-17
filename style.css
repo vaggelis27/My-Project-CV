@@ -1,0 +1,73 @@
+ /* Center boby */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: white;
+}
+
+.content {
+    margin-left: 270px;
+    padding: 20px;
+   
+}
+
+.content h3 {
+    margin-top: 2%; 
+}
+
+#lab-title {
+    color: blue;
+}
+
+/*End body*/
+
+
+
+/* START SIDEBAR*/
+.sidebar {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    width: 250px;
+    height: 100vh;
+    position: fixed;
+}
+
+
+.sidebar h1 {
+    color: #6495ED;
+    font-family: 'Georgia', serif;
+    font-size: 20px;
+    margin-bottom: 5%; 
+}
+
+.sidebar h2 {
+    color:#4a7275
+    ;
+    font-family: 'Georgia', serif;
+    font-size: 20px;
+}
+
+.sidebar p {
+    color: #ffffff;
+    font-family: 'Verdana', sans-serif;
+}
+
+.sidebar h3 {
+    color: #00ccff;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px
+}
+
+/* END SIDEBAR*/
+
+
+
+
+
+ 
