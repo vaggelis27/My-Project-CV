@@ -20,8 +20,11 @@ body {
     margin-top: 2%; 
 }
 
+
 #lab-title {
     color: blue;
+    margin-top: 20px;
+    
 }
 
 /*End body*/
@@ -69,5 +72,18 @@ body {
 
 
 
+/* Professional Experience */
+.Professional-Experience {
+    background-color: rgba(26, 23, 23, 0.295);
 
- 
+}
+
+.University-of-Ioannina {
+    background-color:blueviolet ;
+    }
+
+
+
+ .Epirus-Proteins-SA {
+    background-color: #4a7275d7;
+ }   
